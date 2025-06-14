@@ -887,6 +887,7 @@ export default BlogPage</code></pre>
             <Button
               size="lg"
               variant="secondary"
+              onclick="window.location.href='mailto:doanmingdung662@gmail.com?subject=Hello&body=Tin nhắn của bạn ở đây'"
               className="bg-white text-blue-600 hover:bg-blue-50 text-lg px-8 py-4 rounded-xl font-semibold shadow-lg"
             >
               Gửi tin nhắn
