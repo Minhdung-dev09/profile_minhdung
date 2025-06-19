@@ -899,7 +899,7 @@ export default BlogPage</code></pre>
       {/* Footer */}
       <footer className="py-12 px-6 bg-slate-900 text-white">
         <div className="container mx-auto text-center">
-          <p className="text-slate-400 text-lg">© 2024 DevPortfolio. Made with ❤️ using Next.js & MongoDB</p>
+          <p className="text-slate-400 text-lg">© MinhDung-09dev</p>
         </div>
       </footer>
     </div>
