@@ -887,10 +887,9 @@ export default BlogPage</code></pre>
             <Button
               size="lg"
               variant="secondary"
-              href = "https://www.linkedin.com/in/minhdungdev09/"
               className="bg-white text-blue-600 hover:bg-blue-50 text-lg px-8 py-4 rounded-xl font-semibold shadow-lg"
             >
-              Gửi tin nhắn
+              <Link href="https://www.linkedin.com/in/minhdungdev09/"> Liên Hệ </Link>
             </Button>
           </motion.div>
         </div>
